@@ -1,0 +1,60 @@
+1	1.1 Arrays in Data Structure | Declaration, Initialization, Memory representation 
+AT14lCXuMKI?si=hFj8_Wj7djXYb3Gb
+2	1.2 Array Operations - Traversal, Insertion | Explanation with C Program | DSA Course
+Bnjbun-hiBk?si=Mx5pNXjVl0KlxtVT
+3	1.3 Array Operations | Deletion from Array | Explanation with Code | Data Structure
+CMbpZK_xqoc?si=h-3oWfYMQtwkjtsa
+4	1.4 Pointers and Arrays | Data structure Tutorials
+4Rll-_e9-0M?si=4RsSblU2rKnfpCC9
+5	1.5 Introduction to Two Dimensional (2D) Arrays | Implementation of 2D Arrays |Memory representation
+KDQXUysHLL8?si=ah3uhNt4hISht_RH
+6	1.6 Pointers and 2-D Arrays | Two dimensional Array | Data Structures & Algorithm Tutorials
+tw-qWGG8y5g?si=PZ73CMy6MfZ2jfkX
+7	2.1 Introduction to Linked List | Need of Linked List | DSA Tutorials
+dmb1i4oN5oE?si=_g7fPLkLCQAJWQA-
+8	2.2 Types of Linked List in Data Structures | DSA Full Course
+DWpVGpNfDmM?si=DaZgAHfjSnBbdFCJ
+9	2.3 Arrays vs Linked List | Data structures
+qauEA64G1Ds?si=4zPG5O_yBw_Vfoi9
+10	2.4 Linked List Implementation in C/C++ | Creation and Display | DSA Tutorials
+6wXZ_m3SbEs?si=PT5ydNbdL54XTh2I
+11	2.5 Insertion of a Node in Linked List(at Beginning,End,Specified Position)with Code | DSA Tutorials
+dq3F3e9o2DM?si=qXvFT39zA6oPwRIT
+12	2.6 Deletion of a node from Linked List (from beginning, end, specified position) | DSA Tutorials
+ClvYytk5Rlg?si=_6XyG6NCFrpiJeWm
+13	2.7 Find length of Linked List- Iterative approach | DSA Tutorials
+SbGRuk38MvI?si=s0BvxmNMCwgF_yWJ
+14	2.8 Reverse a Linked List - Iterative Method | Data Structure Tutorials
+Tk_fi5l8cag?si=vqqPGHB9VF4rAdHJ
+15	2.9 Introduction to Doubly Linked List in Data structures | DSA Tutorials
+nquQ_fYGGA4?si=BfHCLBx-TH1bxJYW
+16	2.10 Implementation of Doubly Linked List - Data Structures
+H8-IuKKiQeo?si=HfxBe1Vzi3nGSaee
+17	2.11 Insertion in Doubly Linked List(beginning, end, specific position) | Data Structures
+v4szCPs9yEY?si=WsUtZGPd0V1e39mr
+18	2.12 Deletion from Doubly Linked List (beginning,end,specific position) | Data Structures Tutorials
+7yNUXcOcHwE?si=jrK1DjDeqGUVCXFf
+19	2.13 Reverse a Doubly Linked List | Data Structures & Algorithm Tutorials
+_6JI9XdO8nM?si=VHLE7DowZLMm-SCs
+20	2.14 Circular Linked List in Data Structure | Creation and Display | DSA Course
+fmfx1C4TTxw?si=mUL47V-18kFVjRXd
+21	2.15 Implementation of Circular linked list in C | Data Structure Tutorials
+jsTybZ5qSNE?si=dFoDZ3JWmAvK96F5
+22	2.16 Insertion in Circular Linked List | Data Structure Tutorials
+ReGglEXEH08?si=5-Uifi3imbf0oGEH
+23	2.17 Deletion of a Node from Circular Linked List(beginning, end, given position) | DSA Tutorials
+EkE6RHuMx3I?si=H-azdkaYTWAQ9niG
+24	2.18 Reverse a Circular Linked List | Data Structure Tutorials
+xvAoleV706Q?si=9zbOLfxVNxwqCO8g
+25	2.19 Implementation of Doubly Circular Linked List| Creation and Display | Data Structures
+eBCTtS_sptM?si=-jEwvzIo6nIsDK94
+26	2.20 Insertion in Doubly Circular Linked List | Data Structure & Algorithm Tutorials
+Fa958fGdgx0?si=eP7nmeYh1ati5m0E
+27	2.21 Deletion from Doubly Circular Linked List | Data Structure & Algorithm Course
+ElQxT6hDeNE?si=c48lDYiBqhjaUUJo
+28	3.1 Stack in Data Structure | Introduction to Stack | Data Structures Tutorials
+bxRVz8zklWM?si=hFXOIW9_x09fr0WV
+29	3.2 Implementation of Stack using Array | Data Structure and Algorithm Tutorials
+VmsTAVpz0xo?si=VZCNg201XgCJgK62
+30	3.3 Stack implementation using Linked List | Data Structures and Algorithm Tutorials
+T_UXDTy23DQ?si=xwZb7oF-__wwJMQ4

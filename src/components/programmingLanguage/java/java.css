@@ -1,0 +1,144 @@
+.javawallpaperimage{
+    background-image: url('../../../../images/java-wallpaper.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 30vh;
+    margin-top: -0.5cm;
+
+    background-position: center;
+}
+.PythonCourseIndex{
+    color: white;
+    margin-left: 0.5cm;
+    margin-top: -0.5cm;
+    height: 1cm;
+}
+.indexOfPthon{
+    /* background-color: aqua; */
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    overflow: auto;
+}
+.indexOfPthon{
+   display: flex;
+   flex-direction: column; 
+   row-gap: 0.2cm;
+}
+
+.java1,
+.java2,
+.java3,
+.java4,
+.java5,
+.java6,
+.java7,
+.java8,
+.java9,
+.java10,
+.java11,
+.java12,
+.java13,
+.java14,
+.java15,
+.java16,
+.java17,
+.java18,
+.java19,
+.java20,
+.java21,
+.java22,
+.java23,
+.java24,
+.java25,
+.java26,
+.java27,
+.java28,
+.java29,
+.java30,
+.java31{
+    background-color: white;
+    height: max-content;
+    border-radius: 0.5cm;
+    margin-top: 10px;
+    font-size: large;
+}
+.java31{
+    font-size: 0.6cm;
+    font-weight: bolder;
+}
+.StartButton{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: auto;
+    width: 50vw;
+    height: 6vh;
+    position: relative;
+    top: -1cm;
+    transition: background-color 0.3s ease;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 100px;
+}
+.StartButton:hover{
+    border: 30px;
+    background-color: gold;
+    color: black;
+}
+
+/* ----------------------------------------Pyvideos------------------------------------------------- */
+
+iframe{
+    width: 100%;
+    height: 35vh;
+}
+.indexOfPthonvideo{
+    width: 90vw;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    /* background-color: #007BFF; */
+}
+.java1:hover,
+.java2:hover,
+.java3:hover,
+.java4:hover,
+.java5:hover,
+.java6:hover,
+.java7:hover,
+.java8:hover,
+.java9:hover,
+.java10:hover,
+.java11:hover,
+.java12:hover,
+.java13:hover,
+.java14:hover,
+.java15:hover,
+.java16:hover,
+.java17:hover,
+.java18:hover,
+.java19:hover,
+.java20:hover,
+.java21:hover,
+.java22:hover,
+.java23:hover,
+.java24:hover,
+.java25:hover,
+.java26:hover,
+.java27:hover,
+.java28:hover,
+.java29:hover,
+.java30:hover,
+.java31:hover{ 
+    color: black;
+    background-color: gold;
+    box-shadow: 1cm;
+}
+
+
+

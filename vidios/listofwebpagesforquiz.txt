@@ -1,0 +1,9 @@
+python : https://www.evamariakiss.de/tutorial/python/python_quizzes.php
+java : https://skillvalue.com/en/quiz/java/
+js : https://javascript-questions.vercel.app/
+c++ : https://www.proprofs.com/quiz-school/story.php?title=c-final-exam_1
+
+web dvelopment : https://www.proprofs.com/quiz-school/topic/web-development
+android development : 
+DSA : https://workat.tech/problem-solving/practice/topics
+Aptitude : https://aptitude-test.com/free-aptitude-test/mixed-aptitude-test/

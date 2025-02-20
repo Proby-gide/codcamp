@@ -1,0 +1,145 @@
+
+.jswallpaperimage{
+    background-image: url('../../../../images/js-wallpaper.png');
+    background-size: contain;
+    margin-top: -0.5cm;
+
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 30vh;
+    background-position: center;
+}
+.PythonCourseIndex{
+    color: white;
+    margin-left: 0.5cm;
+    margin-top: -0.5cm;
+    height: 1cm;
+}
+.indexOfPthon{
+    /* background-color: aqua; */
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    overflow: auto;
+}
+.indexOfPthon{
+   display: flex;
+   flex-direction: column; 
+   row-gap: 0.2cm;
+}
+
+.js1,
+.js2, 
+.js3, 
+.js4, 
+.js5, 
+.js6, 
+.js7, 
+.js8, 
+.js9, 
+.js10,
+.js11,
+.js12,
+.js13,
+.js14,
+.js15,
+.js16,
+.js17,
+.js18,
+.js19,
+.js20,
+.js21,
+.js22,
+.js23,
+.js24,
+.js25,
+.js26,
+.js27,
+.js28,
+.js29,
+.js30,
+.js31{
+    background-color: white;
+    height: max-content;
+    border-radius: 0.5cm;
+    margin-top: 10px;
+    font-size: large;
+}
+.js31{
+    font-size: 0.6cm;
+    font-weight: bolder;
+}
+.StartButton{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: auto;
+    width: 50vw;
+    height: 6vh;
+    position: relative;
+    top: -1cm;
+    transition: background-color 0.3s ease;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 100px;
+}
+.StartButton:hover{
+    border: 30px;
+    background-color: gold;
+    color: black;
+}
+
+/* ----------------------------------------Pyvideos------------------------------------------------- */
+
+iframe{
+    width: 100%;
+    height: 35vh;
+}
+.indexOfPthonvideo{
+    width: 90vw;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    /* background-color: #007BFF; */
+}
+.js1:hover,
+.js2:hover,
+.js3:hover,
+.js4:hover,
+.js5:hover,
+.js6:hover,
+.js7:hover,
+.js8:hover,
+.js9:hover,
+.js10:hover,
+.js11:hover,
+.js12:hover,
+.js13:hover,
+.js14:hover,
+.js15:hover,
+.js16:hover,
+.js17:hover,
+.js18:hover,
+.js19:hover,
+.js20:hover,
+.js21:hover,
+.js22:hover,
+.js23:hover,
+.js24:hover,
+.js25:hover,
+.js26:hover,
+.js27:hover,
+.js28:hover,
+.js29:hover,
+.js30:hover,
+.js31:hover{ 
+    color: black;
+    background-color: gold;
+    box-shadow: 1cm;
+}
+
+
+

@@ -1,0 +1,32 @@
+1	Why take this Java Course? - VHbSopMyc4M?si=1h8atsfICmB4CfIZ
+2	Programs and Programming Languages - 	-C88r0niLQQ?si=MePdIzjYdHGcIqTB
+3	Introduction to Java Programming 	-	mG4NLNZ37y4?si=J7RBTKYda-G1W4LK
+4	Anatomy of Java Program	-	vsxYucdzimA?si=pKwzP91trVAlVQP_
+5	Displaying Messages in Java	-	ifirpBZLeCk?si=bfpBW9mF60IzrchT
+6	Displaying Numbers in Java	-	UFMqdnUh4nI?si=4bG5Q3rInJF7ITfz
+7	Configuring our Java Development Environment	-	FjGMYpXS9iE?si=gEq_xaKRFk6XY-uy
+8	Creating, Compiling, and Executing a Java Program	-	gHXzyAkbUhk?si=YEYdX9JvJbbYO7o2
+9	Our First Java Project	-	AVpLMoTnwM8?si=WaGO0RLz1BzjMJTZ
+10	Java Packages, Classes, and Methods	-	mgixJYEZ1Fk?si=HVSIThWsERLzb5q4
+11	public, private, and static in Java	-	SITEc4DWwsQ?si=xMqWmzZ1UrBuALd-
+12	The void Return Type in Java	-	14Cfx3fpH-w?si=vRoVtl_zFUBi6fVe
+13	Command Line Arguments in Java	-	Up17-azeuyE?si=E6cq_9jhc5cJ-e3x
+14	Programming Styles	-	OXYT01qrDrc?si=ltJUtKFxAPiZPM8N
+15	Programming Errors	-	dPQaQWyqYoc?si=6U9jiiCEgBF3I-q5
+16	Type Faster in IntelliJ	-	N2m2pm1rMPE?si=jDtK-6sl3btZues2
+17	Java Exercise - Creating Classes & Methods	-	-94U78VoufQ?si=omv-ZQYFVgXkazxT
+18	Java Basics - An Overview	-	doxwM_gVc90?si=Emx1domREpn3g8C0
+19	Introduction to Variables in Java	-	N8LDSryePuc?si=62f7iXD9GankzdcX
+20	Variables in Java - Practice	-	Ls14YnfR7Hg?si=RO_nIH0XdxV9f-my
+21	Constants in Java	-	Ccc-Sk8qMAQ?si=fzF90TX9XU6ADeXI
+22	Identifiers in Java	-	1C9f4mqDDlY?si=B3xIthy4zSum33z-
+23	Introduction to Data Types in Java	-	UwpXXiGdlOE?si=PrTFH3LdPadEcWg9
+24	The int Data Type in Java	-	o4Ha6wMOemQ?si=FtQiZ2vFKFCrjV13
+25	The byte, short, and long Data Types in Java	-	fGta43iNjNM?si=EhW1Rei5rk2DKAOu
+26	Integers Data Types in Java - Practice	-	sgShaqAI1L8?si=f3KO1i0hbv6xshZg
+27	Bytes and Values in Java	-	ilgo8h4cYnU?si=ru7bPzbMuQB3Lehp
+28	The char Data Type in Java	-	jB5F-GkOhDo?si=fYraxzUvAF4o-RfD
+29	The double and float Data Types in Java	-	shHBfb71UJo?si=hPvUZZWyuUNjsGsF
+30	The boolean Data Type in Java	 -	Jlv_fdB4cTY?si=K7SQE2afl90sPyLN
+for more advance refer 'https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5&si=OPGifvEoYkFE8wtx'
+	

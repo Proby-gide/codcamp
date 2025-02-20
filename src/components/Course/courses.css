@@ -1,0 +1,117 @@
+.body{
+    user-select: none;
+}
+.welcome{
+    background-image: url('../../../images/Home.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 30vh;
+}
+.logatcourse{
+    background-image: url('../../../images/logo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 160px;
+    height: 170px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    display: block;
+}
+.ProgrammingLanguages{
+    color: whitesmoke;
+    margin: auto;
+    display: block;
+    margin-top: 4vh;
+    margin-left: 4vw;
+    font-size: 1.6em;
+    margin-left: 4vw;
+}
+.fourblocks{
+    /* background-color: aqua; */
+    height:max-content;
+    margin-top: 3.8vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 5vh;
+    
+}
+.Pythonbloc{
+    background-color: white;
+    width: 4cm;
+    height: 20vh;
+    border-radius: 0.4cm;
+}
+.javablock{
+    background-color: white;
+    width: 4cm;
+    height: 20vh;
+    border-radius: 0.4cm;
+}
+.jsblock{
+    background-color: white;
+    width: 4cm;
+    height: 20vh;
+    border-radius: 0.4cm;
+}
+.cplusplusblock{
+    background-color: white;
+    width: 4cm;
+    height: 20vh;
+    border-radius: 0.4cm;
+}
+.javablock,
+.jsblock,
+.cplusplusblock,.pythonimgandtext{
+    display: grid;
+    justify-content: center;
+}
+
+
+.imgpy{
+    background-image: url('../../../images/python_logo.png');
+}
+.imgjava{
+    background-image: url('../../../images/java-logo.png');
+}
+.jsimg{
+    background-image: url('../../../images/js-logo.png');
+}
+.cppimg{
+    background-image: url('../../../images/C++-logo.png');
+}
+.cppimg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 5rem;
+    height: 5.7rem;
+}
+.imgjava,
+.jsimg,
+.imgpy{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 6rem;
+    height: 6rem
+}
+.textjava,
+.textjs,
+.cpptext,.textpy{
+    color: black;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: bold;
+}
+.coursesnumber{
+    color: rgb(31, 28, 28);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Pythonbloc:hover,.cplusplusblock:hover,.javablock:hover,.jsblock:hover{
+    background-image: linear-gradient(green, yellow);
+    .cpptext,.coursesnumber{
+        color: black;
+    }
+}

@@ -1,0 +1,43 @@
+.menu3lines {
+    float: right;
+    color: white;
+    margin-right: 4vw;
+    font-size: 2rem;
+    width: 2rem;
+    height: 5rem;
+}
+.menuclose{
+    float: right;
+    color: white;
+    font-size: 2rem;
+    height: 5rem;
+    display: none;
+    position: fixed;
+    right: 0;
+    margin-right: 2rem;
+    z-index: 2;
+    transition: ease-in-out 3s;
+}
+.menulist{
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 80%;
+    background-color: rgb(116, 5, 116);
+    z-index: 1;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.valuesoflist{
+    display: none;
+    margin-top: 8vh;
+    font-size: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10vh;
+}
+

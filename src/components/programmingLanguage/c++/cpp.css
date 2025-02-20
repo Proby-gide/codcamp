@@ -1,0 +1,145 @@
+.cppwallpaperimage{
+    background-image: url('../../../../images/c++-wallpaper.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    margin-top: -0.5cm;
+
+    height: 30vh;
+    background-position: center;
+}
+.PythonCourseIndex{
+    color: white;
+    margin-left: 0.5cm;
+    margin-top: -0.5cm;
+    height: 1cm;
+}
+.indexOfPthon{
+    /* background-color: aqua; */
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    overflow: auto;
+}
+.indexOfPthon{
+   display: flex;
+   flex-direction: column; 
+   row-gap: 0.2cm;
+}
+
+.cpp1,
+.cpp2,
+.cpp3,
+.cpp4,
+.cpp5,
+.cpp6,
+.cpp7,
+.cpp8,
+.cpp9,
+.cpp10,
+.cpp11,
+.cpp12,
+.cpp13,
+.cpp14,
+.cpp15,
+.cpp16,
+.cpp17,
+.cpp18,
+.cpp19,
+.cpp20,
+.cpp21,
+.cpp22,
+.cpp23,
+.cpp24,
+.cpp25,
+.cpp26,
+.cpp27,
+.cpp28,
+.cpp29,
+.cpp30,
+.cpp31{
+    background-color: white;
+    height: max-content;
+    /* width:max-content ; */
+    border-radius: 0.5cm;
+    margin-top: 10px;
+    font-size: large;
+}
+.cpp31{
+    font-size: 0.6cm;
+    font-weight: bolder;
+}
+.StartButton{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: auto;
+    width: 50vw;
+    height: 6vh;
+    position: relative;
+    top: -1cm;
+    transition: background-color 0.3s ease;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 100px;
+}
+.StartButton:hover{
+    border: 30px;
+    background-color: gold;
+    color: black;
+}
+
+/* ----------------------------------------Pyvideos------------------------------------------------- */
+
+iframe{
+    width: 100%;
+    height: 35vh;
+}
+.indexOfPthonvideo{
+    width: 90vw;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    /* background-color: #007BFF; */
+}
+.cpp1:hover,
+.cpp2:hover, 
+.cpp3:hover, 
+.cpp4:hover, 
+.cpp5:hover, 
+.cpp6:hover, 
+.cpp7:hover, 
+.cpp8:hover, 
+.cpp9:hover, 
+.cpp10:hover,
+.cpp11:hover,
+.cpp12:hover,
+.cpp13:hover,
+.cpp14:hover,
+.cpp15:hover,
+.cpp16:hover,
+.cpp17:hover,
+.cpp18:hover,
+.cpp19:hover,
+.cpp20:hover,
+.cpp21:hover,
+.cpp22:hover,
+.cpp23:hover,
+.cpp24:hover,
+.cpp25:hover,
+.cpp26:hover,
+.cpp27:hover,
+.cpp28:hover,
+.cpp29:hover,
+.cpp30:hover,
+.cpp31:hover{ 
+    color: black;
+    background-color: gold;
+    box-shadow: 1cm;
+}
+
+
+

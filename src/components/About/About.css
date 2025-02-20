@@ -1,0 +1,57 @@
+.bodyforabout {
+    color: white;
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    overflow-y: auto;
+    overflow-wrap: wrap;
+}
+.imgcontainer{
+    display: flex;
+    flex-direction: column;
+    
+}
+.adminPhoto {
+    /* background-color: aqua; */
+    height: 30vh;
+    width: 5cm;
+    background-image: url('../../../images/Auther.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.linkDinelogo {
+    background-image: url('../../../images/linkdien.png');
+    height: 2cm;
+    width: 1.5cm;
+    /* display: -moz-grid-line; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 4px;
+}
+
+.gmaillogo{
+    background-image: url('../../../images/pf.png');
+    height: 2cm;
+    width: 1.5cm;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 4px;
+}
+
+.adminabout {
+    /* background-color: aqua; */
+    height: fit-content;
+    width: 90%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}

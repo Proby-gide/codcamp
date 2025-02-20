@@ -1,0 +1,135 @@
+.webvawallpaperimage{
+    background-image: url('../../../../images/web-wallpaper.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 30vh; 
+    background-position: center;
+    margin-top: -0.5cm;}
+.PythonCourseIndex{
+    color: white;
+    margin-left: 0.5cm;
+    margin-top: -0.5cm;
+    height: 1cm;
+}
+.indexOfPthon{
+    /* background-color: aqua; */
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    overflow: auto;
+}
+.indexOfPthon{
+   display: flex;
+   flex-direction: column; 
+   row-gap: 0.2cm;
+}
+
+.web1,
+.web2,
+.web3,
+.web4,
+.web5,
+.web6,
+.web7,
+.web8,
+.web9,
+.web10,
+.web11,
+.web12,
+.web13,
+.web14,
+.web15,
+.web16,
+.web17,
+.web18,
+.web19,
+.web20,
+.web21,
+.web22,
+.web23,
+.web24,
+.web25,
+.web26,
+.web27,
+.web28,
+.web29,
+.web30{
+    background-color: white;
+    height: max-content;
+    border-radius: 0.5cm;
+    margin-top: 10px;
+    font-size: large;
+    /* width: max-content; */
+
+}
+.StartButton1{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: auto;
+    width: 50vw;
+    height: 6vh;
+    position: relative;
+    top: -0.5cm;
+    transition: background-color 0.3s ease;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 100px;
+}
+.StartButton:hover{
+    border: 30px;
+    background-color: gold;
+    color: black;
+}
+
+/* ----------------------------------------Pyvideos------------------------------------------------- */
+
+iframe{
+    width: 100%;
+    height: 35vh;
+}
+.indexOfPthonvideo{
+    width: 90vw;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    /* background-color: #007BFF; */
+}
+.web1:hover,
+.web2:hover, 
+.web3:hover, 
+.web4:hover, 
+.web5:hover, 
+.web6:hover, 
+.web7:hover, 
+.web8:hover, 
+.web9:hover, 
+.web10:hover,
+.web11:hover,
+.web12:hover,
+.web13:hover,
+.web14:hover,
+.web15:hover,
+.web16:hover,
+.web17:hover,
+.web18:hover,
+.web19:hover,
+.web20:hover,
+.web21:hover,
+.web22:hover,
+.web23:hover,
+.web24:hover,
+.web25:hover,
+.web26:hover,
+.web27:hover,
+.web28:hover,
+.web29:hover,
+.web30:hover{ 
+    color: black;
+    background-color: gold;
+    box-shadow: 1cm;
+}

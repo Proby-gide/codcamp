@@ -1,0 +1,25 @@
+.bodyForArtical{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    overflow-x: hidden ;
+}
+.boxforcontaingtheArtical{
+    width: 100vw;
+    height: 30%;
+    background-color: rgb(241, 77, 241);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    color: black;
+}
+.thewordardicle{
+    position: relative;
+    top: 6rem;
+    /* transform: translate(-50%, -50%); */
+    font-size: 3rem;
+}
+.iframeForArtical{
+    width: 100vw;
+    height: 70%;
+    color: black;
+}

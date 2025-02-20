@@ -1,0 +1,144 @@
+.aptvawallpaperimage{
+    background-image: url('../../../../images/aptitude-wallpaper.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 30vh;
+    background-position: center;
+    margin-top: -0.5cm;
+
+}
+.PythonCourseIndex{
+    color: white;
+    margin-left: 0.5cm;
+    margin-top: -0.5cm;
+    height: 1cm;
+}
+.indexOfPthon{
+    /* background-color: aqua; */
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    overflow: auto;
+}
+.indexOfPthon{
+   display: flex;
+   flex-direction: column; 
+   row-gap: 0.2cm;
+}
+
+.apt1,
+.apt2,
+.apt3,
+.apt4,
+.apt5,
+.apt6,
+.apt7,
+.apt8,
+.apt9,
+.apt10,
+.apt11,
+.apt12,
+.apt13,
+.apt14,
+.apt15,
+.apt16,
+.apt17,
+.apt18,
+.apt19,
+.apt20,
+.apt21,
+.apt22,
+.apt23,
+.apt24,
+.apt25,
+.apt26,
+.apt27,
+.apt28,
+.apt29,
+.apt30,
+.apt31{
+    background-color: white;
+    height: 7vh;
+    border-radius: 0.5cm;
+    margin-top: 10px;
+    font-size: large;
+}
+.java31{
+    font-size: 0.6cm;
+    font-weight: bolder;
+}
+.StartButton1{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: auto;
+    width: 50vw;
+    height: 6vh;
+    position: relative;
+    top: -0.5cm;
+    transition: background-color 0.3s ease;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 100px;
+}
+.StartButton:hover{
+    border: 30px;
+    background-color: gold;
+    color: black;
+}
+
+/* ----------------------------------------Pyvideos------------------------------------------------- */
+
+iframe{
+    width: 100%;
+    height: 35vh;
+}
+.indexOfPthonvideo{
+    width: 90vw;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    /* background-color: #007BFF; */
+}
+.apt1:hover,
+.apt2:hover, 
+.apt3:hover, 
+.apt4:hover, 
+.apt5:hover, 
+.apt6:hover, 
+.apt7:hover, 
+.apt8:hover, 
+.apt9:hover, 
+.apt10:hover,
+.apt11:hover,
+.apt12:hover,
+.apt13:hover,
+.apt14:hover,
+.apt15:hover,
+.apt16:hover,
+.apt17:hover,
+.apt18:hover,
+.apt19:hover,
+.apt20:hover,
+.apt21:hover,
+.apt22:hover,
+.apt23:hover,
+.apt24:hover,
+.apt25:hover,
+.apt26:hover,
+.apt27:hover,
+.apt28:hover,
+.apt29:hover,
+.apt30:hover,
+.apt31:hover{ 
+    color: black;
+    background-color: gold;
+    box-shadow: 1cm;
+}
+
+
+

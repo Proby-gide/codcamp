@@ -1,0 +1,152 @@
+.body{
+    overflow-y: visible;
+}
+.statingImage {
+    background-image: url('../../../images/startingpage.jpg');
+    /* background-color: aqua; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+    width: 100vw;
+    border-bottom-right-radius: 10rem;
+}
+
+.h1a {
+    font-size: 1.8rem;
+    color: white;
+}
+.text{
+    color: white;
+    width: 100vw;
+    text-align: center;
+    margin-top: 1vh;
+}
+
+.text1{
+    color:beige;
+    width: fit-content;
+    margin-top: 1cm;
+    margin-left: 0.2cm;
+    font-size: 2rem;
+    text-align: left;
+}
+.text2{
+    color:beige;
+    margin-top: 0.3cm;
+    font-size: 1rem;
+    margin-left: 0.2cm;
+}
+.GetStarted{
+    margin-top: 10px;
+    width: 50vw;
+    font-weight: bold;
+    margin-left: 0.2cm;
+    height: 6vh;
+    background-color: royalblue;
+    border-radius: 3rem;
+    font-size: larger;
+    color: aliceblue;
+    margin-bottom: 1rem;
+}
+.GetStarted:hover{
+    background-color: #f1f1f1;
+    color: black;
+}
+.threeContainer{
+    /* background-color: aqua; */
+    width:100%;
+    height: vh;
+    margin-left: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1cm;
+    row-gap: 0.5cm;
+}
+.practiceProblebox{
+    background-image: linear-gradient(white,gray);
+    width: 4cm;
+    height: 20vh;
+    display: grid;
+    flex-wrap: wrap;
+    /* flex-grow: 1; */
+    justify-self: space-evenly;
+    border-radius: 1rem;
+    justify-items: center;
+    align-items: center;
+}
+.a128218,.atv📺,.a128240{
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+.practiceproblem,.VideoExplanationText,.practiceproblemss{
+    margin: auto;
+    margin-left: 1rem;
+    row-gap: 0rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.a128240{
+    margin: auto;
+    padding-left: 5vh;
+}
+.practiceproblemss{
+    margin: auto;
+    padding-left: 5vh;
+    position: relative;
+    top: -1rem;
+}
+.practiceProblebox:hover,.articalbox:hover,.videoExplanationbox:hover{
+    background-image:linear-gradient(orange,purple) ;
+    color: white;
+}
+
+.videoExplanationbox{
+    /* background-color: rgb(255, 255, 255); */
+    background-image: linear-gradient(white,gray);
+    width: 4cm;
+    height: 20vh;
+    align-items: flex-start;
+    border-radius: 1rem;
+    display: grid;
+    flex-wrap: wrap;
+    justify-items: center;
+    align-items: center;
+}
+.articalbox{
+    background-image: linear-gradient(white,gray);
+    width: 4cm;
+    height: 20vh;
+    border-radius: 1rem;
+    /* flex-grow: 1; */
+    align-self: flex-start;
+    justify-content: flex-start;
+    display: grid;
+    flex-wrap: wrap;
+    justify-items: center;
+    align-items: center;
+}
+.Startlearning{
+    width: 90vw;
+    margin:auto;
+    display: block;
+    border-radius:0.6rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 2.5rem;
+    background-color: royalblue;
+    cursor: pointer;
+    border-radius: 3rem;
+    font-size: larger;
+    color: aliceblue;
+}
+.Startlearning:hover{
+    background-color: transparent;
+    color: black;
+    backdrop-filter: blur(10px);
+    border-color: blue;
+}
+

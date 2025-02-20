@@ -1,0 +1,205 @@
+.menu3lines {
+    float: right;
+    color: white;
+    margin-right: 4vw;
+    font-size: 2rem;
+    width: 2rem;
+    height: 5rem;
+}
+.menuclose{
+    float: right;
+    color: white;
+    font-size: 2rem;
+    height: 5rem;
+    display: none;
+    position: fixed;
+    right: 0;
+    margin-right: 2rem;
+    z-index: 2;
+    transition: ease-in-out 3s;
+}
+.menulist{
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 80%;
+    background-color: rgb(116, 5, 116);
+    z-index: 1;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.valuesoflist{
+    display: none;
+    margin-top: 8vh;
+    font-size: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10vh;
+}
+
+
+.pythonwallpaperimage{
+    background-image: url('../../../../images/pyWalpaper.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 30vh;
+    margin-top: -0.5cm;
+    background-position: center;
+}
+.PythonCourseIndex{
+    color: white;
+    margin-left: 0.5cm;
+    margin-top: -0.5cm;
+    height: 1cm;
+}
+.indexOfPthon{
+    /* background-color: aqua; */
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    overflow: auto;
+}
+.indexOfPthon{
+   display: flex;
+   flex-direction: column; 
+   row-gap: 0.2cm;
+}
+
+.pi1,
+.pi2, 
+.pi3, 
+.pi4, 
+.pi5, 
+.pi6, 
+.pi7, 
+.pi8, 
+.pi9, 
+.pi10,
+.pi11,
+.pi12,
+.pi13,
+.pi14,
+.pi15,
+.pi16,
+.pi17,
+.pi18,
+.pi19,
+.pi20,
+.pi21,
+.pi22,
+.pi23,
+.pi24,
+.pi25,
+.pi26,
+.pi27,
+.pi28,
+.pi29,
+.pi30,
+.pi31,
+.pi32,
+.pi33,
+.pi34,
+.pi35,
+.pi36,
+.pi37,
+.pi38,
+.pi39,
+.pi40,.pi41{
+    background-color: white;
+    height: max-content;
+    border-radius: 0.5cm;
+    margin-top: 10px;
+    font-size: large;
+}
+.pi41{
+    font-size: 0.6cm;
+    font-weight: bolder;
+}
+.StartButton{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: auto;
+    width: 50vw;
+    height: 6vh;
+    position: relative;
+    top: -1cm;
+    transition: background-color 0.3s ease;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 100px;
+}
+.StartButton:hover{
+    border: 30px;
+    background-color: gold;
+    color: black;
+}
+
+/* ----------------------------------------Pyvideos------------------------------------------------- */
+
+iframe{
+    width: 100%;
+    height: 35vh;
+}
+.indexOfPthonvideo{
+    width: 90vw;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    /* background-color: #007BFF; */
+}
+.pi1:hover,
+.pi2:hover, 
+.pi3:hover, 
+.pi4:hover, 
+.pi5:hover, 
+.pi6:hover, 
+.pi7:hover, 
+.pi8:hover, 
+.pi9:hover, 
+.pi10:hover,
+.pi11:hover,
+.pi12:hover,
+.pi13:hover,
+.pi14:hover,
+.pi15:hover,
+.pi16:hover,
+.pi17:hover,
+.pi18:hover,
+.pi19:hover,
+.pi20:hover,
+.pi21:hover,
+.pi22:hover,
+.pi23:hover,
+.pi24:hover,
+.pi25:hover,
+.pi26:hover,
+.pi27:hover,
+.pi28:hover,
+.pi29:hover,
+.pi30:hover,
+.pi31:hover,
+.pi32:hover,
+.pi33:hover,
+.pi34:hover,
+.pi35:hover,
+.pi36:hover,
+.pi37:hover,
+.pi38:hover,
+.pi39:hover,
+.pi40:hover,.pi41:hover{ 
+    color: black;
+    background-color: gold;
+    box-shadow: 1cm;
+}
+
+
+

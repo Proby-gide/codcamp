@@ -1,0 +1,157 @@
+/* menu bar  */
+.menu3lines {
+    float: right;
+    color: white;
+    margin-right: 4vw;
+    font-size: 2rem;
+    width: 2rem;
+    height: 5rem;
+}
+.menuclose{
+    float: right;
+    color: white;
+    font-size: 2rem;
+    height: 5rem;
+    display: none;
+    position: fixed;
+    right: 0;
+    margin-right: 2rem;
+    z-index: 2;
+    transition: ease-in-out 3s;
+}
+.menulist{
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 80%;
+    background-color: rgb(116, 5, 116);
+    z-index: 1;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.valuesoflist{
+    display: none;
+    margin-top: 8vh;
+    font-size: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10vh;
+}
+
+
+/* --------------------------------------------------------- */
+.practiveAndArticaltitle,
+.pt {
+    color: whitesmoke;
+    margin: auto;
+    display: block;
+    margin-top: 7.8vh;
+    font-size: 1.8em;
+    margin-left: 4vw;
+    font-weight: bold;
+}
+
+.fourbox {
+    height: max-content;
+    margin-top: 2vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 3vh;
+}
+
+.DSAbox,
+.webdevelopmentbox,
+.androuidbox,
+.aptitudebox {
+    background-color: white;
+    width: 4cm;
+    height: 24vh;
+    border-radius: 0.4cm;
+    display: grid;
+    justify-content: center;
+}
+
+.DSAimg,
+.webdevelopmentimg,
+.androidimg,
+.aptitudeimg {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 6rem;
+    height: 6rem;
+}
+
+.aptitudetext,
+.DSAtext,
+.webdevelopmenttext,
+.androidtext {
+    color: black;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.DSAimg {
+    background-image: url('../../../images/DSA.png');
+}
+
+.webdevelopmentimg {
+    background-image: url('../../../images/webdevelopment.png');
+}
+
+.androidimg {
+    background-image: url('../../../images/android-development.png');
+}
+
+.aptitudeimg {
+    background-image: url('../../../images/aptitude.png');
+}
+
+.aptitudebox:hover,
+.DSAbox:hover,
+.webdevelopmentbox:hover,
+.androuidbox:hover {
+    background-image: linear-gradient(red, yellow);
+}
+
+.practiveAndArticalbox {
+    /* background-color: aqua; */
+    margin-top: 1rem;
+    height: 3.49cm;
+    display: flex;
+    justify-content: center;
+}
+
+.practivebox {
+    background-image: url("../../../images/quiz.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 25vh;
+    width: 25vh;
+}
+
+.Articalbox {
+    background-image: url("../../../images/artical.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 25vh;
+    width: 25vh;
+    border-radius: 1cm;
+    border-radius: 0.7cm;
+}
+
+.footer {
+    background-color: rgb(116, 5, 116);
+    height: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    color: white;
+}

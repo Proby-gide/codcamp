@@ -1,0 +1,44 @@
+1.	Introduction to Python Course - 6i3EGqOBRiU?si=CXSgSqdhhTYyntB4
+2.	Introduction to Python Programming | Python for Beginners - DInMru2Eq6E?si=3kTT3AWJLzFtgQMb
+3.	History of Python | Python Tutorials for Beginners - 1UzSDMJRh8c?si=wleSifhbfwIqgwwh
+4.	Download and Install Python (3.10.6) and Pycharm - La1BdF_sunw?si=s8rP0NfsPYL5nIJZ
+5.	Writing First Python Program | Printing to Console in Python - lygaoUnJKF4?si=iqfEpy_ZKmcoye90
+6.	P_05 Coding Exercises for Beginners in Python - Exercise #1 - FP6qQgJI5f4?si=2uKV-a3BQjrT09zT
+7.	P_06 print() function & String concatenation(using +) in Python - 6Nu9cvINQLk?si=OOMuZ7M4posyl5S0
+8.	P_07 Input function in Python | Take User Input in Python - sa97IyIOHxU?si=wmm0GM7id2gzhGyL
+9.	P_08 Variables in Python - a43BIxiZ5EM?si=KDe9AKJlWPqdWQia
+10.	P_09 Coding Exercises for Beginners in Python | Exercise #2  - A8aYYz6YGCA?si=76ehFCPxfIcHdeh7
+11.	P_10 Variable Naming Rules in Python  - Vn4RuZ4Y2M0?si=GmGk5Uupxnzv_oil
+12.	P_11 Data Types in Python  - TTepNRy0wj8?si=ZKkCM8EInd5jyAMK
+13.	P_12 Type Checking, Type Error and Type Conversion - _WY-p2ZKv9Q?si=CdMJ7U3IUCfg3K8b
+14.	P_13 Coding Exercises for Beginners in Python | Exercise #3 - b7QWOgVjj1M?si=XjAbHgzqDIl2Dic9
+15.	P_14 Operators in Python | Arithmetic Operators - kvVPeBBZdtM?si=n-kl5NhrWfF535OJ
+16.	P_15 Operators in Python | Assignment and Comparison Operators - ELNIUknegOE?si=QUzPwBTkiuEdkgdW
+17.	Operators in Python | Logical Operators - -Mx5popgTtE?si=ds4iInXIVM6RBrnU
+18. 	Operators in Python | Bitwise Operators - XbjQ-heGd58?si=36YnZfaWWvhYhR8C
+19	Identity Operators in Python - BG3lg589HRE?si=PnpDXqgsza0VL1vb
+20.  	Membership Operators in Python - MHl0Jj15crA?si=z6wpEAfPe3W2-7NB
+21	Coding Exercise for Beginners in Python | Exercise #4 - 0kLylf5uNNc?si=_YBHPS7H7weo4TBo
+22	round() function in Python - CLjw2nCMpSY?si=sbduxb_ITN1Njm7- 
+23	f-Strings in Python - xGkF9Y38Gsc?si=QnBezIoAS_Ts6EnS
+24	Coding Exercise for Beginners in Python| Exercise 5 - O2V97JC8zOY?si=mUrG5Axs9hOYG1Ql
+25	If & If Else Conditional Statements in Python - MMzXz7EDTZM?si=TCGHyCDGtVMAjkJ1
+26	Coding Exercise for Beginners in Python - WOvtTLePD3M?si=HYKp-30xLdKXZOX6
+27	Nested If Else & elif Statements in Python - 7498T9qPygI?si=POizd6IHw10iYKz-
+28	P_27 Coding Exercise for Beginners in Python | Exercise 7  - a3n_9k06dY8?si=vXgsoBTfbN_-EtfX
+29	P_28 Coding Exercise for Beginners in Python | Exercise 8 - sY6j_UR3pGI?si=r-su3AIjKNQLGKRn
+30 	P_29 Multiple if Statements in Python	-	O3MA3Hn7c2E?si=ffecX05CcTYlIhCW
+31	P_30 Coding Exercise for Beginners in Python | Exercise 9	-	9OwSWGguQXs?si=MKdYCZOV92AzIV_w
+32	P_31 Coding Exercise for Beginners in Python | Love Calculator - iRF5AB1VRS8?si=y_9lE8HMMt1w9xC1
+33	P_32 List in Python and List Functions	-	1tnFQDo05hQ?si=_tG_bAlCZoc_MQR6
+34	P_33 Random Module in Python	-	khZKoe0_B0I?si=G-7c11WcpXen2KNA
+35	P_34 Coding Exercise for Beginners in Python | Heads or Tails	-	7niNK-917fI?si=XDqXBOIbcc2lnX5Q
+36	Coding Exercise for Beginners in Python |Exercise 12	-	ORMBycShqnc?si=f-DbEzGjUVUQdUtb
+37	Fix Python Index Error: List Index Out of Range 	-	wpmXETzX6xc?si=K_O47z97NUKA7puZ
+38	Nested List in Python	-	KEpmUPxxjxI?si=oQg4j-1f9og1NhCg
+39	Coding Exercise for Beginners in Python |Exercise 13	-	jTIODDVCAus?si=uDcpDVe4Yag_N1fm
+40	Python Project 1 | Rock Paper Scissors Game in Python	-	Qcefu1jVPds?si=FZkJ0Ml9afIx29X0
+
+
+for advance version go through 'https://www.youtube.com/playlist?list=PLdo5W4Nhv31bZSiqiOL5ta39vSnBxpOPT'
+
