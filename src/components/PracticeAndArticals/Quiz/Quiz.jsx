@@ -72,9 +72,8 @@ const Quiz = () => {
       {/* --------------------------------------------------------------------- */}
       <div className="quizetimeword"></div>
       <div className="listcontent">
+        <div className="ProgrammingLanguages"><b>Languages Quiz</b></div>
         <div className="fourblocks">
-          <div className="ProgrammingLanguages"><b>Languages Quiz</b></div>
-
           <div className="Pythonbloc" onClick={moveTopythonfine}>
             <div className="pythonimgandtext">
               <div className="imgpy"></div>
